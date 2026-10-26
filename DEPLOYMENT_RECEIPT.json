@@ -1,0 +1,14 @@
+{
+  "project": "carl-friedrich-gauss-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "A9ufqyDn6UVMcK2em6s3YroDKefsbLJbt9iZZF5g6WV9",
+  "vault_account": "ACF5Nw2C2R7u7gJLwHhNWS47BgSeMwA12FSmvCmSHGrz",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2Phnjdc1yPA94vDEzGMf4AfrVhxQJZ57roy9BcvoSFNSShCC4aCSyjTYNawFkrYxUPtpdsPrsBKShapwEzwm2jHK",
+  "account_tx": "ZrkwCPXimBNn8sA7ebyWvBYC9q9vtgWBzrARwRqZ1SrP7MXbj5PyXt6jS4oYH7pM1QUVqKNUnoT7ERnYcTXFQKh",
+  "mint_tx": "5vq7CxjX8hwymvrUEy5RSg8auoDKHFURDkYEeS2UAGSmRZYCseXJaQxdUzG4WzdViwMRGg3gGwBEaTaJNJU2Yy8H",
+  "solana_explorer_mint": "https://explorer.solana.com/address/A9ufqyDn6UVMcK2em6s3YroDKefsbLJbt9iZZF5g6WV9?cluster=devnet",
+  "timestamp": "2026-10-26 16:24:34 UTC"
+}
